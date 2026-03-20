@@ -1,0 +1,29 @@
+Machine Learning Engineer – Job Description
+
+We are looking for a Machine Learning Engineer to design, build, and deploy machine learning models for real-world applications. The ideal candidate should have strong programming skills, experience with machine learning frameworks, and knowledge of data processing and model optimization.
+
+Responsibilities:
+
+* Develop and deploy machine learning models.
+* Work with large datasets and perform data preprocessing.
+* Implement algorithms for prediction, classification, and analysis.
+* Collaborate with data scientists and software engineers.
+* Optimize models for performance and scalability.
+* Evaluate and improve model accuracy.
+
+Required Skills:
+
+* Strong Python programming skills
+* Machine Learning algorithms
+* Deep Learning frameworks (TensorFlow or PyTorch)
+* Data analysis using Pandas and NumPy
+* SQL and database knowledge
+* Model evaluation and tuning
+* Data preprocessing and feature engineering
+
+Preferred Skills:
+
+* Experience with cloud platforms (AWS, GCP, or Azure)
+* Knowledge of Docker or MLOps practices
+* Experience with big data tools such as Apache Spark
+* Experience deploying ML models into production environments

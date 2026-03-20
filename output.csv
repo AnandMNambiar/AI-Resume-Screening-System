@@ -1,0 +1,8 @@
+Candidate,Score,Strengths,Gaps,Recommendation
+Jillani Resume.pdf,80,"python, machine learning, deep learning","data preprocessing, feature engineering, model evaluation",Strong Fit
+mahesh resume.pdf,60,"python, machine learning, deep learning","pandas, numpy, data preprocessing",Moderate Fit
+Cho resume.pdf,53,"python, pytorch, sql","machine learning, deep learning, tensorflow",Moderate Fit
+karan_resume.pdf,26,"python, sql, aws","machine learning, deep learning, tensorflow",Not Fit
+Resume_data_analyst_fresher.pdf,20,"python, sql, pandas","machine learning, deep learning, tensorflow",Not Fit
+data-analyst-resume-example.pdf,13,"python, sql","machine learning, deep learning, tensorflow",Not Fit
+Resume-Sample-1-Software-Engineer.pdf,13,"sql, docker","python, machine learning, deep learning",Not Fit
